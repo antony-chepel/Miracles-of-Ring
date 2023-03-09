@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739048640252",
+    "project_id": "miracles-of-ring",
+    "storage_bucket": "miracles-of-ring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739048640252:android:85220268a184d8ccfb1179",
+        "android_client_info": {
+          "package_name": "com.kooapps.stackybirdand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739048640252-sflben9oeihurjcbm7vah9pukrmouh3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXe_VIaPltr4mnpvn-ojKY8WclFuIRSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739048640252-sflben9oeihurjcbm7vah9pukrmouh3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Miracles of Ring</string>
+    <string name="facebook_app_id">172392425120180</string>
+    <string name="camera_permission_denied_txt">Permission denied</string>
+    <string name="cannot_open_file_chooser_txt">Can not open file chooser</string>
+    <string name="facebook_client_token">fe605f4a7d81b52bf1ca2706c12aacd8</string>
+    <string name="camera_permission_granted_txt">Permission granted</string>
+    <string name="fb_login_protocol_scheme">fb172392425120180</string>
+
+</resources>
